@@ -21,6 +21,12 @@ The AI model has already been trained and is ready for you to use. You can find 
 
 After cloning the repository, the model file `rps_model.h5` should be present in the root directory. Simply follow the instructions below to run the game using the pre-trained model.
 
+![Alternative Text](https://drive.google.com/uc?export=view&id=1Xz85V-fxHZo3MXv8l_7Pn9qsrB_0Q1Ex)
+
+![Alternative Text](https://drive.google.com/uc?export=view&id=19DP-u3XIdYOaSpS6tL31OX3fqZoVcjMY)
+
+
+
 ## Running the Game
 
 To start the game, follow these steps:
